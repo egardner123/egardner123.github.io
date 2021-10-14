@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Emerson Gardner",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "emerson.gardner@student.chaminade.edu",
+    "phone": "801-674-4258",
+    "website": "https://egardner123.github.io",
+    "summary": "I am studying Data Science at chaminade University.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,36 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "egardner123",
+        "url": "http://github.com/egardner123"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+     
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Golf",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "data ethics",
       "keywords": [
       ]
     },
@@ -61,12 +47,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        
       ]
     },
     {
@@ -83,10 +65,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Chamindae, Honolulu, HI",
+      "area": "Data Science ",
+      "studyType": "D.S.",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
